@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/rolling-scopes-school/core-js-dates/issues"
   },
-  "homepage": "https://github.com/rolling-scopes-school/core-js-dates#readme"
+  "homepage": "https://github.com/rolling-scopes-school/core-js-dates#readme",
+  "dependencies": {
+    "core-js-dates": "file:"
+  }
 }
